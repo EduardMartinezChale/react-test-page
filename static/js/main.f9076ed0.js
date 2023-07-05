@@ -1,0 +1,2 @@
+!function(){var e;parser=new DOMParser,e=parser.parseFromString("<redes><red><nombre>Instagram</nombre><username>@test</username><link>https://www.google.com/</link></red></redes>","text/xml"),document.getElementById("demo").innerHTML=e.getElementsByTagName("title")[0].childNodes[0].nodeValue}();
+//# sourceMappingURL=main.f9076ed0.js.map
