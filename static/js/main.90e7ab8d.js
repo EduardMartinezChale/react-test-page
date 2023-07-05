@@ -1,0 +1,2 @@
+!function(){var e;e=(new DOMParser).parseFromString("<bookstore><book><title>Everyday Italian</title><author>Giada De Laurentiis</author><year>2005</year></book></bookstore>","text/xml"),document.getElementById("demo").innerHTML=e.getElementsByTagName("title")[0].childNodes[0].nodeValue}();
+//# sourceMappingURL=main.90e7ab8d.js.map
